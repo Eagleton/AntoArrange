@@ -1,0 +1,79 @@
+{
+
+    "courses": [
+        {
+            "id": 1,
+            "courseId": "011A0041",
+            "courseName": "微观经济学",
+            "teacherName": "赖普清",
+            "semester": "春夏",
+            "courseTime": "周三第3, 4, 5节",
+            "place": "紫金港东2-301"
+        },
+        {
+            "id": 2,
+            "courseId": "21120261",
+            "courseName": "软件工程",
+            "teacherName": "王章野",
+            "semester": "春夏",
+            "courseTime": "周四第7, 8节",
+            "place": "玉泉曹光彪二期-202"
+        },
+        {
+            "id": 3,
+            "courseId": "21120471",
+            "courseName": "编译原理",
+            "teacherName": "李莹",
+            "semester": "春夏",
+            "courseTime": "周一第3, 4, 5节",
+            "place": "玉泉曹光彪二期-201"
+        },
+        {
+            "id": 4,
+            "courseId": "21121170",
+            "courseName": "B/S体系软件设计",
+            "teacherName": "胡晓军",
+            "semester": "春夏",
+            "courseTime": "周五第3, 4, 5节",
+            "place": "玉泉曹光彪二期-201"
+        },
+        {
+            "id": 5,
+            "courseId": "21121340",
+            "courseName": "计算机网络",
+            "teacherName": "邱劲松",
+            "semester": "春夏",
+            "courseTime": "周二第3, 4, 5节",
+            "place": "玉泉教7-308"
+        },
+        {
+            "id": 6,
+            "courseId": "22188080",
+            "courseName": "软件工程实践",
+            "teacherName": "金波",
+            "semester": "春夏",
+            "courseTime": "周五第1, 2节",
+            "place": "玉泉曹光彪二期-201"
+        },
+        {
+            "id": 7,
+            "courseId": "361J0010",
+            "courseName": "职业生涯规划",
+            "teacherName": "陈卫",
+            "semester": "春夏",
+            "courseTime": "周一第11, 12, 13节",
+            "place": "西溪田家炳书院-308"
+        },
+        {
+            "id": 8,
+            "courseId": "21191690",
+            "courseName": "大数据存储技术",
+            "teacherName": "陈华均",
+            "semester": "春夏",
+            "courseTime": "周一第6, 7, 8节",
+            "place": "玉泉曹光彪二期-202"
+        }
+        
+    ]
+}
+

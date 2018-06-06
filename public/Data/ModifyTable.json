@@ -1,0 +1,54 @@
+{
+  "name": "ModifyTable",
+  "courses": [
+    {
+      "id": 1,
+      "teacher":"紫金港",
+      "course":"东一A",
+      "room":"101",
+      "time": 100
+    },
+    {
+      "id": 2,
+      "teacher":"紫金港",
+      "course":"东一B",
+      "room":"101",
+      "time": 200
+    },
+    {
+      "id": 3,
+      "teacher":"紫金港",
+      "course":"东二",
+      "room":"101",
+      "time": 150
+    },
+    {
+      "id": 4,
+      "teacher":"玉泉",
+      "course":"曹西",
+      "room":"101",
+      "time": 120
+    },
+    {
+      "id": 5,
+      "teacher":"玉泉",
+      "course":"教七",
+      "room":"101",
+      "time": 80
+    },
+    {
+      "id": 6,
+      "teacher":"西溪",
+      "course":"田家炳书院",
+      "room":"101",
+      "time": 50
+    },
+    {
+      "id": 7,
+      "teacher":"西溪",
+      "course":"田家炳书院",
+      "room":"101",
+      "time": 150
+    }
+  ]
+}

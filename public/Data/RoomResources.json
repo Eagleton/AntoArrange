@@ -1,0 +1,61 @@
+{
+    "name": "RoomResources",
+    "classrooms": [
+        {
+            "id": 1,
+            "campus":"紫金港",
+            "building":"东一A",
+            "room":"103",
+            "capacity": 100
+        },
+        {
+            "id": 2,
+            "campus":"紫金港",
+            "building":"东一B",
+            "room":"103",
+            "capacity": 200
+        },
+        {
+            "id": 3,
+            "campus":"紫金港",
+            "building":"东二",
+            "room":"101",
+            "capacity": 150
+        },
+        {
+            "id": 4,
+            "campus":"玉泉",
+            "building":"曹西",
+            "room":"101",
+            "capacity": 120
+        },
+        {
+            "id": 5,
+            "campus":"玉泉",
+            "building":"教七",
+            "room":"101",
+            "capacity": 80
+        },
+        {
+            "id": 6,
+            "campus":"西溪",
+            "building":"田家炳书院",
+            "room":"101",
+            "capacity": 50
+        },
+        {
+            "id": 7,
+            "campus":"西溪",
+            "building":"田家炳书院",
+            "room":"101",
+            "capacity": 150
+        },
+        {
+            "id": 8,
+            "campus":"紫金港",
+            "building":"东一A",
+            "room":"101",
+            "capacity": 60
+        }
+    ]
+}

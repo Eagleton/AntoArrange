@@ -1,0 +1,59 @@
+{
+    "name": "CourseResources",
+    "courses": [
+        {
+            "id": 1,
+            "courseId": 10001,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        },
+        {
+            "id": 2,
+            "courseId": 10010,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        },
+        {
+            "id": 3,
+            "courseId": 10001,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        },
+        {
+            "id": 4,
+            "courseId": 10011,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        },
+        {
+            "id": 5,
+            "courseId": 10100,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        },
+        {
+            "id": 6,
+            "courseId": 10101,
+            "courseName": "软件工程",
+            "courseTime": 2,
+            "campus": "紫金港",
+            "semester": "春夏",
+            "capacity": 100
+        }
+    ]
+}
